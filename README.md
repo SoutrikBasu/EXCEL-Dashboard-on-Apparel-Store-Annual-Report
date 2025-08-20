@@ -17,3 +17,13 @@ An Apparel store wants to create an annual sales report for 2024. So that, the o
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Dashboard Interaction<a href="https://github.com/SoutrikBasu/EXCEL-Dashboard-on-Apparel-Store-Annual-Report/blob/main/Dashboard%20Image.png">View Dashboard</a>
+
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+<img width="1251" height="671" alt="Dashboard Image" src="https://github.com/user-attachments/assets/b6b37b4a-cb32-49d4-8cc7-89e2c2884b76" />
+
